@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Debughelper
+Bundle-SymbolicName: eu.hohenegger.debughelper
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: eu.hohenegger.debughelper.Activator
+Require-Bundle: org.eclipse.core.runtime
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: eu.hohenegger.debughelper
